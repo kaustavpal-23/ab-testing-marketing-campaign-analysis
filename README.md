@@ -11,6 +11,13 @@ This dataset contains 365 days of campaign performance data for:
 - Facebook Ads
 - AdWords Ads
 
+## Skills Demonstrated
+- A/B Testing
+- Hypothesis Testing
+- Linear Regression
+- Time Series Analysis
+- Business Recommendation
+
 Metrics include:
 - Views
 - Clicks
@@ -45,6 +52,15 @@ Metrics include:
 - Facebook showed stronger correlation between clicks and conversions.
 - Facebook regression model achieved an R² score of 76.35%.
 - AdWords regression model achieved an R² score of 20.07%.
+
+## Key Results Table
+
+| Metric      | Facebook | AdWords |
+| ----------- | -------: | ------: |
+| Correlation |     0.87 |    0.45 |
+| R² Score    |   76.35% |  20.07% |
+| MSE         |     2.02 |    2.11 |
+
 
 ## Business Recommendation
 Based on the analysis, businesses may consider allocating more advertising budget toward Facebook campaigns while investigating additional variables affecting AdWords performance.
