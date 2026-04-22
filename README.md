@@ -1,10 +1,10 @@
 # A/B Testing: Marketing Campaign Performance Analysis
 
 ## Business Problem
-As a marketing agency, the objective is to maximize ROI for clients' advertising campaigns. This project compares the effectiveness of Facebook Ads and AdWords Ads in terms of conversions, clicks, and cost-effectiveness.
+As a marketing agency, the objective is to maximize ROI for clients' advertising campaigns. This project compares the effectiveness of Facebook Ads and AdWords Ads in terms of conversions, clicks and cost-effectiveness.
 
 ## Research Question
-Which ad platform is more effective in terms of conversions, clicks, and overall cost-effectiveness?
+Which ad platform is more effective in terms of conversions, clicks and overall cost-effectiveness?
 
 ## Dataset
 This dataset contains 365 days of campaign performance data for:
